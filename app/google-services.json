@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41686720244",
+    "firebase_url": "https://waterlevel-9cd7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "waterlevel-9cd7b",
+    "storage_bucket": "waterlevel-9cd7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41686720244:android:05282c1534d314aac408a1",
+        "android_client_info": {
+          "package_name": "com.example.mitigasi_banjir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41686720244-ssq8ks13robj8g4hcu7n81dahbfs9b4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4oMSbFebtw7sfUy3YY88JFI0eV9CZXK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41686720244-ssq8ks13robj8g4hcu7n81dahbfs9b4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
